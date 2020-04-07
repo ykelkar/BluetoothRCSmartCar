@@ -2,7 +2,7 @@
 
 RC Car controlled via Bluetooth from an Android mobile application. Detects objects in front of it with a distance sensor to avoid collisions.
 
-Hardware used:
+## Hardware used
 
 -ATMega1284 x2
 
@@ -16,4 +16,4 @@ Hardware used:
 
 -HC-SR04 Distance Sensor
 
-Demo Link: https://youtu.be/shti6v_ppqM
+## Demo Link: https://youtu.be/shti6v_ppqM
